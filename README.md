@@ -6,5 +6,6 @@ test feature1
 feature pull-request1
 feature pull-request2
 feature pull-request3
+test work1
 feature work2
 feature pull-request1 from work2
