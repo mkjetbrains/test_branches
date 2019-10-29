@@ -6,3 +6,4 @@ test feature1
 feature pull-request1
 feature pull-request2
 test feature2
+feature pull-request1 from feature2
